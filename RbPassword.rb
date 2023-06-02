@@ -2,10 +2,6 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
-puts
-puts
-puts
-
 puts("Welcome to the Ruby Password Generator!")
 puts("How many letters u want in the password? ")
 letters_amount = gets.chomp.to_i
@@ -33,6 +29,4 @@ symbols_amount.times {
 
 password = password.shuffle.join
 
-puts "A senha gerada foi: #{password}"
-puts
-puts
+puts "The generated password is: #{password}"
