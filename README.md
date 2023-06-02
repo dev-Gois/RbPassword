@@ -22,3 +22,5 @@ $ cd RbPassword
 $ ruby RbPassword.rb
 ```
 # 💻 Demo
+
+![](https://github.com/dev-Gois/RbPassword/blob/main/RbPassword.gif)
