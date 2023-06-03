@@ -2,10 +2,10 @@
 
 This project generate a random password containing letters, numbers and symbols
 
-# 📍 Technologies
+## 📍 Technologies
 - [Ruby](https://www.ruby-lang.org/pt/)
 
-# 🚀 Running
+## 🚀 Running
 
 To use this application you need ruby installed in your device, if you have, do this:
 
@@ -21,6 +21,6 @@ $ cd RbPassword
 ```bash
 $ ruby RbPassword.rb
 ```
-# 💻 Demo
+## 💻 Demo
 
 ![](https://github.com/dev-Gois/RbPassword/blob/main/RbPassword.gif)
